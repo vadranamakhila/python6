@@ -14,7 +14,7 @@ def isPalindrome(s):
   
 # Driver code 
 s = raw_input()
-ans = isPalindrome(z) 
+ans = isPalindrome(s) 
   
 if ans == 1: 
     print("yes") 
